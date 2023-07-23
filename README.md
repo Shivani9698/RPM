@@ -57,4 +57,4 @@ This code is released under the [MIT License](LICENSE).
 
 ## Author
 
-Created by [Your Name]. Contact: [Your Email Address].
+Created by Shivani Raj.
